@@ -5,3 +5,5 @@
 ### Here's another normal main commit
 
 ### And here's a commit to rebase onto main
+
+### Let's try an interactive rebase
